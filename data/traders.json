@@ -1,0 +1,12 @@
+[
+  { "id": "apollo", "name": "Apollo", "role": "Explosives & Gadgets", "questCount": 6,
+    "desc": "Sells Quick Use items — mainly explosives and gadgets that help in a myriad of scenarios." },
+  { "id": "celeste", "name": "Celeste", "role": "Resource Trading", "questCount": 12,
+    "desc": "Trades for Assorted Seeds in exchange for the materials every Raider might need." },
+  { "id": "lance", "name": "Lance", "role": "Medical Supplies", "questCount": 4,
+    "desc": "Patches you up in a pinch with his meds — for the right price, of course." },
+  { "id": "shani", "name": "Shani", "role": "Head of Security", "questCount": 18,
+    "desc": "Sells Binoculars, Raider Hatch Keys and more. Runs the bulk of field operations." },
+  { "id": "tianwen", "name": "Tian Wen", "role": "Arms & Ammo", "questCount": 7,
+    "desc": "Has all the ammo you'll need, as well as a few basic weapons and mods." }
+]

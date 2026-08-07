@@ -1,0 +1,18 @@
+{
+  "baseSlots": 64,
+  "slotsPerUpgrade": 24,
+  "maxLevel": 10,
+  "expeditionBonus": 12,
+  "upgrades": [
+    {"level":1,"slots":64,"cost":0,"total":0},
+    {"level":2,"slots":88,"cost":5000,"total":5000},
+    {"level":3,"slots":112,"cost":10000,"total":15000},
+    {"level":4,"slots":136,"cost":15000,"total":30000},
+    {"level":5,"slots":160,"cost":25000,"total":55000},
+    {"level":6,"slots":184,"cost":40000,"total":95000},
+    {"level":7,"slots":208,"cost":60000,"total":155000},
+    {"level":8,"slots":232,"cost":90000,"total":245000},
+    {"level":9,"slots":256,"cost":130000,"total":375000},
+    {"level":10,"slots":280,"cost":200000,"total":575000}
+  ]
+}
