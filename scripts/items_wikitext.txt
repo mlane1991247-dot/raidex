@@ -1,0 +1,2595 @@
+'''Looting''' is the main source for acquiring items, gear and weapons in the rust belt. These items are needed for [[Quests]], [[Raider Den|Workshop Upgrades]], Crafting or can be sold or recycled to break them down into smaller resources. Recycling items during a raid only returns a portion of the usual components.
+
+Use the categorized tables below to prioritize what to take and what to leave behind.
+
+== Items ==
+{| class="sortable fandom-table
+!Icon
+!Name
+!Rarity
+!Recycles
+!Sell Price
+!Category
+!Keep for Workshop 
+!Keep for Quests 
+!Keep for Projects
+!Keep for Crafting
+|-
+|[[File:Advanced ARC Powercell.png|frameless|96x96px]]
+|[[Advanced ARC Powercell]]
+|Rare
+|2x ARC Powercell
+|$640
+|Topside Material
+|
+|
+|
+|
+* Energy Clip
+* Surge Shield Recharger
+|-
+|[[File:Advanced Electrical Components.png|frameless|96x96px]]
+|[[Advanced Electrical Components]]
+|Rare
+|1x Electrical Components, 1x Wires
+|$1750
+|Refined Material
+|5x Gear Bench III
+5x Utility Station III
+|
+|5x Project IV
+|
+* Raider Hatch Key
+* Photoelectric Cloak
+* Snap Hook
+|-
+|[[File:Advanced Mechanical Components.png|frameless|96x96px]]
+|[[Advanced Mechanical Components]]
+|Rare
+|1x Mechanical Components, 1x Steel Spring
+|$1750
+|Refined Material
+|5x Gunsmith III
+|
+|
+|
+* Bettina
+* Bobcat
+* Osprey
+* Renegade
+* Tempest
+* Torrente
+* Venator
+* Vulcano
+|-
+|[[File:Agave.png|frameless|96x96px]]
+|[[Agave]]
+|Uncommon
+|Cannot be Recycled
+|$1000
+|Nature
+|
+|
+|
+|Agave Juice
+|-
+|[[File:Agave Juice.png|frameless|96x96px]]
+|[[Agave Juice]]
+|Common
+|Cannot be Recycled
+|$1800
+|Quick Use
+|
+|
+|
+|
+|-
+|[[File:Air Freshener.png|frameless|96x96px]]
+|[[Air Freshener]]
+|Uncommon
+|Cannot be Recycled
+|$2000
+|Trinket
+|
+|
+|
+|Flame Spray
+|-
+|[[File:Alarm Clock.png|frameless|96x96px]]
+|[[Alarm Clock]]
+|Rare
+|6x Plastic Parts, 1x Processor
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Antiseptic.png|frameless|96x96px]]
+|[[Antiseptic]]
+|Rare
+|10x Chemicals
+|$1000
+|Refined Material
+|8x Medical Lab III
+|2x Doctor's Orders
+|
+|
+* Sterilzied Bandage
+* Vita Spray
+* Vita Shot
+|-
+|[[File:Apricot.png|frameless|96x96px]]
+|[[Apricot]]
+|Uncommon
+|3x Assorted Seeds
+|$640
+|Nature
+|5x Scrappy Level 3
+
+12x Scrappy Level 5
+|
+|
+|Fruit Mix (In-Raid)
+|-
+|[[File:ARC Alloy.png|frameless|96x96px]]
+|[[ARC Alloy]]
+|Uncommon
+|2x Metal Parts
+|$200
+|Topside Material
+|6x Explosives Station I
+6x Medical Lab I
+
+6x Utility Station I
+|3x Clearer Skies
+|80x Project I
+|
+* Light Shield
+* ARC Motion Core
+* ARC Circuitry
+* Seeker Grenade
+|-
+|[[File:ARC Circuitry.png|frameless|96x96px]]
+|[[ARC Circuitry]]
+|Rare
+|2x ARC Alloy
+|$1000
+|Topside Material
+|10x Refiner III
+|
+|
+|
+* Power Rod
+* Medium Shield
+|-
+|[[File:ARC Coolant.png|frameless|96x96px]]
+|[[ARC Coolant]]
+|Rare
+|16x Chemicals
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:ARC Flex Rubber.png|frameless|96x96px]]
+|[[ARC Flex Rubber]]
+|Rare
+|16x Rubber Parts
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:ARC_Motion_Core.png|frameless|96x96px]]
+|[[ARC Motion Core]]
+|Rare
+|2x ARC Alloy
+|$1000
+|Topside Material
+|5x Refiner II
+|
+|
+|
+* Magnetic Accelerator
+* Wolfpack
+|-
+|[[File:ARC Performance Steel.png|frameless|96x96px]]
+|[[ARC Performance Steel]]
+|Rare
+|12x Metal parts
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:ARC Powercell.png|frameless|96x96px]]
+|[[ARC Powercell]]
+|Common
+|Cannot be Recycled
+|$270
+|Misc
+|5x Refiner I
+|
+|
+|
+* Shield Recharger
+|-
+|[[File:ARC Synthetic Resin.png|frameless|96x96px]]
+|[[ARC Synthetic Resin]]
+|Rare
+|14x Plastic Parts
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:ARC Thermo Lining.png|frameless|96x96px]]
+|[[ARC Thermo Lining]]
+|Rare
+|16x Fabric
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Assorted Seeds.png|frameless|96x96px]]
+|[[Assorted Seeds]]
+|Common
+|Cannot be Recycled
+|$100
+|Nature
+|
+|
+|
+|Used as a currency to trade with Celeste
+|-
+|[[File:Bastion Cell.png|frameless|96x96px]]
+|[[Bastion Cell]]
+|Epic
+|2x ARC Alloy, 2x Advanced Mechanical Components
+|$5000
+|Recyclable
+|6x Gear Bench III
+|
+|
+|
+|-
+|[[File:Battery.png|frameless|96x96px]]
+|[[Battery]]
+|Uncommon
+|2x Metal Parts
+|$250
+|Topside Material
+|
+|1x Trash Into Treasure
+2x After Rain Comes
+|30x Project III
+|
+* Energy Clip
+* Medium Shield
+* Jolt Mine
+|-
+|[[File:Bicycle Pump.png|frameless|96x96px]]
+|[[Bicycle Pump]]
+|Rare
+|4x Canister, 10x Metal Parts
+|$2000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Bloated Tuna Can.png|frameless|96x96px]]
+|[[Bloated Tuna Can]]
+|Common
+|Cannot be Recycled
+|$1000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Bombardier Cell.png|frameless|96x96px]]
+|[[Bombardier Cell]]
+|Epic
+|2x Advanced Mechanical Components, 2x ARC Alloys
+|$5000
+|Recyclable
+|6x Refiner III
+|
+|
+|
+|-
+|[[File:Breathtaking Snow Globe.png|frameless|96x96px]]
+|[[Breathtaking Snow Globe]]
+|Epic
+|Cannot be Recycled
+|$7000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Broken Flashlight.png|frameless|96x96px]]
+|[[Broken Flashlight]]
+|Rare
+|2x Battery, 6x Metal Parts
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Broken Guidance System.png|frameless|96x96px]]
+|[[Broken Guidance System]]
+|Rare
+|4x Processor
+|$2000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Broken Handheld Radio.png|frameless|96x96px]]
+|[[Broken Handheld Radio]]
+|Rare
+|3x Sensors, 2x Wires
+|$2000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Broken Taser.png|frameless|96x96px]]
+|[[Broken Taser]]
+|Rare
+|2x Battery, 2x Wires
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Burned ARC Circuity.png|frameless|96x96px]]
+|[[Burned ARC Circuitry]]
+|Uncommon
+|2x ARC Alloy
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Camera Lens.png|frameless|96x96px]]
+|[[Camera Lens]]
+|Uncommon
+|8x Plastic Parts
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Candleberries.png|frameless|96x96px]]
+|[[Candleberries]]
+|Rare
+|2x Assorted Seeds
+|$460
+|Nature
+|
+|
+|
+|
+|-
+|[[File:Candle Holder.png|frameless|96x96px]]
+|[[Candle Holder]]
+|Uncommon
+|8x Metal Parts
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Canister.png|frameless|96x96px]]
+|[[Canister]]
+|Uncommon
+|3x Plastics Parts
+|$300
+|Topside Material
+|
+|
+|
+|
+* Bettina
+* Vita Spray
+* Smoke Grenade
+* Heavy Fuze Grenade
+|-
+|[[File:Cat Bed.png|frameless|96x96px]]
+|[[Cat Bed]]
+|Uncommon
+|Cannot be Recycled
+|$1000
+|Trinket
+|1x Scrappy Level 4
+|
+|
+|
+|-
+|[[File:Chemicals.png|frameless|96x96px]]
+|[[Chemicals]]
+|Common
+|Cannot be Recycled
+|$50
+|Basic Material
+|50x Explosives Station I
+|
+|
+|
+|-
+|[[File:Coffee Pot.png|frameless|96x96px]]
+|[[Coffee Pot]]
+|Common
+|Cannot be Recycled
+|$1000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Complex Gun Parts.png|frameless|96x96px]]
+|[[Complex Gun Parts]]
+|Epic
+|3x Simple Gun Parts
+|$2000
+|Topside Material
+|
+|
+|
+|
+* Equalizer
+* Jupiter
+|-
+|[[File:Coolant.png|frameless|96x96px]]
+|[[Coolant]]
+|Rare
+|5x Chemicals, 2x Oil
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Cooling Coil.png|frameless|96x96px]]
+|[[Cooling Coil]]
+|Rare
+|6x Chemicals, 2x Steel Spring
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Cooling Fan.png|frameless|96x96px]]
+|[[Cooling Fan]]
+|Rare
+|14x Plastic Parts, 4x Wires
+|$2000
+|Recyclable
+|
+|
+|5x Project II
+|
+|-
+|[[File:Cracked Bioscanner.png|frameless|96x96px]]
+|[[Cracked Bioscanner]]
+|Rare
+|3x Rubber Parts, 3x Battery
+|$1000
+|Recyclable
+|2x Medical Lab II
+|
+|
+|
+|-
+|[[File:Crude Explosives.png|frameless|96x96px]]
+|[[Crude Explosives]]
+|Uncommon
+|3x Chemicals
+|$270
+|Refined Material
+|5x Explosives Station II
+|
+|
+|
+* Explosive Compound
+* Seeker Grenade
+* Pulse Mine
+* Snap Blast Grenade
+* Shrapnel Grenade
+|-
+|[[File:Crumpled Plastic Bottle.png|frameless|96x96px]]
+|[[Crumpled Plastic Bottle]]
+|Uncommon
+|4x Plastic Parts
+|$270
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Damaged ARC Motion Core.png|frameless|96x96px]]
+|[[Damaged ARC Motion Core]]
+|Uncommon
+|2x ARC Alloy
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Damaged ARC Powercell.png|frameless|96x96px]]
+|[[Damaged ARC Powercell]]
+|Common
+|1x ARC Alloy
+|$293
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Damaged Fireball Burner.png|frameless|96x96px]]
+|[[Damaged Fireball Burner]]
+|Common
+|1x ARC Alloy
+|$270
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Damaged Heat Sink.png|frameless|96x96px]]
+|[[Damaged Heat Sink]]
+|Rare
+|6x Metal Parts, 2x Wires
+|$1000
+|Recyclable
+|2x Utility Station II
+|
+|
+|
+|-
+|[[File:Damaged Hornet Driver.png|frameless|96x96px]]
+|[[Damaged Hornet Driver]]
+|Common
+|2x ARC Alloy
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Damaged Rocketeer Driver.png|frameless|96x96px]]
+|[[Damaged Rocketeer Driver]]
+|Common
+|3x ARC Alloy
+|$2000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Damaged Tick Pod.png|frameless|96x96px]]
+|[[Damaged Tick Pod]]
+|Common
+|1x ARC Alloy
+|$270
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Damaged Wasp Driver.png|frameless|96x96px]]
+|[[Damaged Wasp Driver]]
+|Common
+|1x ARC Alloy
+|$270
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Dart Board.png|frameless|96x96px]]
+|[[Dart Board]]
+|Uncommon
+|Cannot be Recycled
+|$2000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Deflated Football.png|frameless|96x96px]]
+|[[Deflated Football]]
+|Uncommon
+|9x Rubber Parts, 9x Fabric
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Degraded ARC Rubber.png|frameless|96x96px]]
+|[[Degraded ARC Rubber]]
+|Uncommon
+|11x Rubber Parts
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Diving Goggles.png|frameless|96x96px]]
+|[[Diving Goggles]]
+|Rare
+|12x Rubber Parts
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Dog Collar.png|frameless|96x96px]]
+|[[Dog Collar]]
+|Rare
+|8x Fabric, 1x Metal Parts
+|$640
+|Recyclable
+|1x Scrappy Level 2
+|
+|
+|
+|-
+|[[File:Dried Out ARC Resin.png|frameless|96x96px]]
+|[[Dried Out ARC Resin|Dried-Out ARC Resin]]
+|Uncommon
+|9x Plastic Parts
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Duct Tape.png|frameless|96x96px]]
+|[[Duct Tape]]
+|Uncommon
+|3x Fabric
+|$300
+|Topside Material
+|
+|
+|
+|
+* Stable Stock I-III
+* Angled Grip I-III
+* Horizontal Grip
+* Lightweight Stock
+* Padded Stock
+* Vertical Grip I-III
+|-
+|[[File:Durable Cloth.png|frameless|96x96px]]
+|[[Durable Cloth]]
+|Uncommon
+|6x Fabric
+|$640
+|Refined Material
+|5x Medical Lab II
+|1x Doctor's Orders
+|35x Project II
+|
+* Herbal Bandage
+* Sterilized Bandage
+|-
+|[[File:Electrical Components.png|frameless|96x96px]]
+|[[Electrical Components]]
+|Uncommon
+|3x Plastics Parts, 3x Rubber Parts
+|$640
+|Refined Material
+|5x Gear Bench II
+5x Utility Sation II
+|
+|30x Project II
+|
+* Tactical MK.2
+* Combat MK.2
+* Looting MK.2
+* Surge Shield Recharger
+* Lure Grenade
+* Tagging Grenade
+* Advanced Electrical Components
+* Jolt Mine
+|-
+|[[File:Empty Wine Bottle.png|frameless|96x96px]]
+|[[Empty Wine Bottle]]
+|Common
+|Cannot be Recycled
+|$1000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Exodus Modules.png|frameless|96x96px]]
+|[[Exodus Modules]]
+|Epic
+|2x Magnet, 1x Mechanical Components
+|$2750
+|Topside Material
+|
+|
+|1x Project III
+|
+* Tempest
+* Vulcano
+* Hullcracker
+* Bobcat
+* Snaphook
+|-
+|[[File:Expired Pasta.png|frameless|96x96px]]
+|[[Expired Pasta]]
+|Common
+|Cannot be Recycled
+|$1000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Expired Respirator.png|frameless|96x96px]]
+|[[Expired Respirator]]
+|Rare
+|8x Rubber Parts, 4x Fabric
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Explosive Compound.png|frameless|96x96px]]
+|[[Explosive Compound]]
+|Rare
+|2x Crude Explosives
+|$1000
+|Refined Material
+|5x Explosives Station III
+|
+|
+|
+* Trailblazer
+* Wolfpack
+* Explosive Mine
+* Blaze Grenade
+* Deadline
+* Heavy Fuze Grenade
+|-
+|[[File:Fabric.png|frameless|96x96px]]
+|[[Fabric]]
+|Common
+|Cannot be Recycled
+|$50
+|Basic Material
+|30x Gear Bench I
+50x Medical Lab I
+|
+|
+|
+|-
+|[[File:Faded Photograph.png|frameless|96x96px]]
+|[[Faded Photograph]]
+|Common
+|Cannot be Recycled
+|$640
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Fertilizer.png|frameless|96x96px]]
+|[[Fertilizer]]
+|Uncommon
+|2x Assorted Seeds
+|$1000
+|Nature
+|
+|
+|
+|
+|-
+|[[File:Film Reel.png|frameless|96x96px]]
+|[[Film Reel]]
+|Rare
+|Cannot be Recycled
+|$2000
+|Trinket 
+|
+|
+|
+|
+|-
+|[[File:Fine Wristwatch.png|frameless|96x96px]]
+|[[Fine Wristwatch]]
+|Rare
+|Cannot be Recycled
+|$3000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Fireball Burner.png|frameless|96x96px]]
+|[[Fireball Burner]]
+|Uncommon
+|1x ARC Alloy, 1x Crude Explosives
+|$640
+|Recyclable
+|8x Refiner II
+|
+|
+|
+* Flame Spray
+|-
+|[[File:Flow Controller.png|frameless|96x96px]]
+|[[Flow Controller]]
+|Rare
+|1x Advanced Mechanical Components, 1x Sensors
+|$3000
+|Recyclable
+|
+|1x Snap and Salvage
+|
+|
+|-
+|[[File:Fossilized Lightning.png|frameless|96x96px]]
+|[[Fossilized Lightning]]
+|Epic
+|3x Explosive Compound
+|$4000
+|Nature
+|
+|
+|
+|
+|-
+|[[File:Frequency Modulation Box.png|frameless|96x96px]]
+|[[Frequency Modulation Box]]
+|Rare
+|1x Advanced Electrical Components, 1x Speaker Component
+|$3000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Fried Motherboard.png|frameless|96x96px]]
+|[[Fried Motherboard]]
+|Rare
+|5x Plastic Parts, 2x Electrical Components
+|$2000
+|Recyclable
+|3x Utility Station III
+|
+|
+|
+|-
+|[[File:FryingPanPNG.png|frameless|96x96px]]
+|[[Frying Pan]]
+|Rare
+|8x Metal Parts
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Garlic Press.png|frameless|96x96px]]
+|[[Garlic Press]]
+|Uncommon
+|12x Metal Parts
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Geiger Counter.png|frameless|96x96px]]
+|[[Geiger Counter]]
+|Epic
+|3x Battery, 1x Exodus Modules
+|$3500
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Great Mullein.png|frameless|96x96px]]
+|[[Great Mullein]]
+|Uncommon
+|2x Assorted Seeds
+|$300
+|TopSide Material
+|
+|1x Doctor's Orders
+|
+|
+* Herbal Bandage
+* Antiseptic
+|-
+|[[File:Headphones.png|frameless|96x96px]]
+|[[Headphones]]
+|Rare
+|7x Rubber Parts, 1x Speaker Components
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Heavy Gun Parts.png|frameless|96x96px]]
+|[[Heavy Gun Parts]]
+|Rare
+|2x Simple Gun Parts
+|$700
+|TopSide Material
+|
+|
+|
+|
+* Heavy Guns
+|-
+|[[File:Hornet Driver.png|frameless|96x96px]]
+|[[Hornet Driver]]
+|Rare
+|2x ARC Alloy, 2x Electrical Components
+|$2000
+|Recyclable
+|5x Gear Bench II
+|2x The Trifecta
+|
+|
+|-
+|[[File:householdCleanerPNG.png|frameless|96x96px]]
+|[[Household Cleaner]]
+|Uncommon
+|11x Chemicals
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Humidifier.png|frameless|96x96px]]
+|[[Humidifier]]
+|Rare
+|2x Canister, 2x Wires
+|$1000
+|Recyclable
+|
+|
+|5x Project IV
+|
+|-
+|[[File:Ice Cream Scooper.png|frameless|96x96px]]
+|[[Ice Cream Scooper]]
+|Uncommon
+|7x Metal Parts
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Impure ARC Coolant.png|frameless|96x96px]]
+|[[Impure ARC Coolant]]
+|Uncommon
+|12x Chemicals
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Industrial Battery.png|frameless|96x96px]]
+|[[Industrial Battery]]
+|Rare
+|7x Chemicals, 2x Battery
+|$1000
+|Recyclable
+|3x Gear Bench III
+|
+|
+|
+|-
+|[[File:Industrial Charger.png|frameless|96x96px]]
+|[[Industrial Charger]]
+|Rare
+|5x Metal Parts, 1x Voltage Converter
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Industrial Magnet.png|frameless|96x96px]]
+|[[Industrial Magnet]]
+|Rare
+|4x Metal Parts, 2x Magnet
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Ion Sputter.png|frameless|96x96px]]
+|[[Ion Sputter]]
+|Epic
+|4x Voltage Converter, 1x Exodus Modules
+|$6000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Laboratory Reagents.png|frameless|96x96px]]
+|[[Laboratory Reagents]]
+|Rare
+|16x Chemicals, 3x Crude Explosives
+|$2000
+|Recyclable
+|3x Explosives Station III
+|
+|
+|
+|-
+|[[File:Lances Mixtape.png|frameless|96x96px]]
+|[[Lances Mixtape|Lance's Mixtape (5th Edition)]]
+|Epic
+|Cannot be Recycled
+|$10000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Leaper Pulse Unit.png|frameless|96x96px]]
+|[[Leaper Pulse Unit]]
+|Epic
+|3x Arc Alloy, 2x Advanced Mechanical Components
+|$5000
+|Recyclable
+|4x Utility Station III
+|1x Into the Fray
+|3x Project IV
+|
+|-
+|[[File:Lemon.png|frameless|96x96px]]
+|[[Lemon]]
+|Uncommon
+|3x Assorted Seeds
+|$640
+|Nature
+|5x Scrappy Level 3
+|
+|
+|
+|-
+|[[File:Light Gun Parts.png|frameless|96x96px]]
+|[[Light Gun Parts]]
+|Rare
+|2x Simple Gun Parts
+|$700
+|Topside Material
+|
+|
+|
+|
+* Light Guns
+|-
+|[[File:Light Bulb.png|frameless|96x96px]]
+|[[Light Bulb]]
+|Uncommon
+|Cannot be Recycled
+|$2000
+|Trinket
+|
+|
+|5x Project III
+|
+|-
+|[[File:Magnet.png|frameless|96x96px]]
+|[[Magnet]]
+|Uncommon
+|2x Metal Parts
+|$300
+|Topside Material
+|
+|
+|
+|
+* Tactical Mk.2
+|-
+|[[File:Magnetic Accelerator.png|frameless|96x96px]]
+|[[Magnetic Accelerator]]
+|Epic
+|1x Advanced Mechanical Components, 1x ARC Motion Core
+|$5500
+|Refined Material
+|
+|
+|3x Project IV
+|
+* Tempest
+|-
+|[[File:Magnetron.png|frameless|96x96px]]
+|[[Magnetron]]
+|Epic
+|1x Magnetic Accelerator, 1x Steel Spring
+|$6000
+|Recycleable
+|
+|1x Snap and Salvage
+|
+|
+|-
+|[[File:Matriarch Reactor.png|frameless|96x96px]]
+|[[Matriarch Reactor]]
+|Legendary
+|1x Power Rod, 1x Magnetic Accelerator
+|$13000
+|Recycleable
+|
+|
+|
+|
+* Alphelion
+|-
+|[[File:Mechanical Components.png|frameless|96x96px]]
+|[[Mechanical Components]]
+|Uncommon
+|3x Metal Parts, 2x Rubber Parts
+|$640
+|Refined Material
+|5x Gunsmith II
+|
+|
+|Guns
+|-
+|[[File:Medium Gun Parts.png|frameless|96x96px]]
+|[[Medium Gun Parts]]
+|Rare
+|2x Simple Gun Parts
+|$700
+|Topside Material
+|
+|
+|
+|Medium Guns
+|-
+|[[File:Metal Brackets.png|frameless|96x96px]]
+|[[Metal Brackets]]
+|Uncommon
+|8x Metal Parts
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Metal Parts.png|frameless|96x96px]]
+|[[Metal Parts]]
+|Common
+|Cannot be Recycled
+|$75
+|Basic Material
+|20x Gunsmith I
+
+60x Refiner I
+|
+|150x Project I
+|
+|-
+|[[File:Microscope.png|frameless|96x96px]]
+|[[Microscope]]
+|Rare
+|1x Advanced Mechanical Components, 3x Magnet
+|$3000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Mini Centrifuge.png|frameless|96x96px]]
+|[[Mini Centrifuge]]
+|Rare
+|1x Advanced Mechanical Components, 2x Canister
+|$3000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Mod Components.png|frameless|96x96px]]
+|[[Mod Components]]
+|Rare
+|1x Mechanical Components, 1x Steel Spring
+|$1750
+|Refined Material
+|
+|
+|
+|Weapon Mods
+|-
+|[[File:Moss.png|frameless|96x96px]]
+|[[Moss]]
+|Rare
+|3x Assorted Seeds
+|$500
+|Topside Material
+|
+|
+|
+|
+* Defibrilator
+|-
+|[[File:Motor.png|frameless|96x96px]]
+|[[Motor]]
+|Rare
+|2x Oil, 2x Mechanical Components
+|$2000
+|Recyclable
+|3x Refiner III
+|
+|
+|
+|-
+|[[File:Mushroom.png|frameless|96x96px]]
+|[[Mushroom]]
+|Common
+|Cannot be Recycled
+|$1000
+|Misc
+|12x Scrappy Level 5
+|
+|
+|
+|-
+|[[File:Music Box.png|frameless|96x96px]]
+|[[Music Box]]
+|Rare
+|Cannot be Recycled
+|$5000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Music Album.png|frameless|96x96px]]
+|[[Music Album]]
+|Rare
+|Cannot be Recycled
+|$3000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Number Plate.png|frameless|96x96px]]
+|[[Number Plate]]
+|Uncommon
+|3x Metal Parts
+|$270
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Oil.png|frameless|96x96px]]
+|[[Oil]]
+|Uncommon
+|3x Chemicals
+|$300
+|Topside Material
+|
+|
+|
+|
+* Renegade
+|-
+|[[File:Olives.png|frameless|96x96px]]
+|[[Olives]]
+|Uncommon
+|2x Assorted Seeds
+|$640
+|Nature
+|8x Scrappy Level 4
+|
+|
+|
+|-
+|[[File:Painted Box.png|frameless|96x96px]]
+|[[Painted Box]]
+|Common
+|Cannot be Recycled
+|$2000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Plastic Parts.png|frameless|96x96px]]
+|[[Plastic Parts]]
+|Common
+|Cannot be Recycled
+|$60
+|Basic Material
+|25x Gear Bench I
+50x Utility Station I
+|
+|
+|
+|-
+|[[File:Playing Cards.png|frameless|96x96px]]
+|[[Playing Cards]]
+|Rare
+|Cannot be Recycled
+|$5000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Pottery.png|frameless|96x96px]]
+|[[Pottery]]
+|Uncommon
+|Cannot be Recycled
+|$2000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Polluted Air Filter.png|frameless|96x96px]]
+|[[Polluted Air Filter]]
+|Rare
+|6x Fabric, 2x Oil
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Pop Trigger.png|frameless|96x96px]]
+|[[Pop Trigger]]
+|Uncommon
+|1x Crude Explosives, 1x ARC Alloy
+|$640
+|Recyclable
+|5x Explosives Station II
+|
+|
+|
+|-
+|[[File:Portable TV.png|frameless|96x96px]]
+|[[Portable TV]]
+|Rare
+|6x Wires, 2x Battery
+|$2000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Poster Of Natural Wonders.png|frameless|96x96px]]
+|[[Poster of Natural Wonders]]
+|Uncommon
+|Cannot be Recycled
+|$2000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Power Bank.png|frameless|96x96px]]
+|[[Power Bank]]
+|Rare
+|2x Battery, 2x Wires
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Power Cable.png|frameless|96x96px]]
+|[[Power Cable]]
+|Rare
+|4x Wires
+|$1000
+|Recyclable
+|3x Gear Bench II
+|
+|
+|
+|-
+|[[File:PowerRod.png|frameless|96x96px]]
+|[[Power Rod]]
+|Epic
+|1x Advanced Electrical Components, 1x ARC Circuitry
+|$5500
+|Advanced Material
+|
+|1x [[Tribute To Toledo|Tribute to Toledo]]
+|
+|
+* Heavy Shield
+* Snap Hook
+|-
+|[[File:Prickly Pear.png|frameless|96x96px]]
+|[[Prickly Pear]]
+|Uncommon
+|Cannot be Recycled
+|$640
+|Misc
+|8x Scrappy Level 4
+|
+|
+|
+|-
+|[[File:Processor.png|frameless|96x96px]]
+|[[Processor]]
+|Rare
+|1x Wires, 1x Plastic Parts
+|$500
+|Topside Material
+|
+|
+|
+|
+* Tactical Mk. 3 (Defensive)
+* Combat Mk. 3 (Flanking)
+* Tactical Mk. 3 (Revival)
+* Looting Mk. 3 (Safekeeper)
+* Combat Mk. 3 (Aggressive)
+* Looting Mk. 3 (Cautious)
+* Tigger 'Nade
+|-
+|[[File:Projector.png|alt=ingame image of the projector item|frameless|95x95px]]
+|[[Projector]]
+|Rare
+|2x Wires, 1x Processor
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Queen Reactor.png|frameless|96x96px]]
+|[[Queen Reactor]]
+|Legendary
+|1x Power Rod, 1x Magnetic Accelerator
+|$13,000
+|Recyclable
+|
+|
+|
+|Queen Guns
+|-
+|[[File:Radio.png|frameless|96x96px]]
+|[[Radio]]
+|Rare
+|1x Speaker Component, 1x Sensors
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Radio Relay.png|frameless|96x96px]]
+|[[Radio Relay]]
+|Rare
+|2x Speaker Componets, 2x Sensors
+|$3000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Resin.png|frameless|96x96px]]
+|[[Resin]]
+|Common
+|Cannot be Recycled
+|$1000
+|Nature
+|
+|
+|
+|
+|-
+|[[File:Recorder.png|frameless|96x96px]]
+|[[Recorder]]
+|Uncommon
+|10x Plastic Parts
+|$1000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Red Coral Jewelry.png|frameless|96x96px]]
+|[[Red Coral Jewelry]]
+|Rare
+|Cannot be Recycled
+|$5000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Remote Control.png|frameless|96x96px]]
+|[[Remote Control]]
+|Rare
+|7x Plastic Parts, 1x Sensors
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Ripped Safety Vest.png|frameless|96x96px]]
+|[[Ripped Safety Vest]]
+|Uncommon
+|1x Durable Cloth, 1x Magnet
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Rocketeet Driver.png|frameless|96x96px]]
+|[[Rocketeer Driver]]
+|Epic
+|3x ARC Alloy, 2x Advanced Electrical Components
+|$5000
+|Recyclable
+|3x Explosive Station III
+|1x Out of the Shadows
+|
+|
+|-
+|[[File:Rocket Thruster.png|frameless|96x96px]]
+|[[Rocket Thruster]]
+|Rare
+|2x Synthesized Fuel, 6x Metal parts
+|$2000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Roots.png|frameless|96x96px]]
+|[[Roots]]
+|Uncommon
+|1x Assorted Seeds
+|$640
+|Nature
+|
+|
+|
+|
+|-
+|[[File:Rope.png|frameless|96x96px]]
+|[[Rope]]
+|Rare
+|5x Fabric
+|$500
+|Topside Material
+|
+|
+|
+|
+* Zipline
+* Snap Hook
+|-
+|[[File:Rosary.png|frameless|96x96px]]
+|[[Rosary]]
+|Rare
+|Cannot be Recycled
+|$2000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Rotary Encoder.png|frameless|96x96px]]
+|[[Rotary Encoder]]
+|Rare
+|2x Electrical Components, 2x Processor
+|$3000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Rubber Duck.png|frameless|96x96px]]
+|[[Rubber Duck]]
+|Common
+|Cannot be Recycled
+|$1000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Rubber Pad.png|frameless|96x96px]]
+|[[Rubber Pad]]
+|Rare
+|18x Rubber Parts
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Rubber Parts.png|frameless|96x96px]]
+|[[Rubber Parts]]
+|Common
+|Cannot be Recycled
+|$50
+|Basic Material
+|30x Gunsmith I
+|
+|200x Project I
+|
+|-
+|[[File:Ruined Accordon.png|frameless|96x96px]]
+|[[Ruined Accordion]]
+|Rare
+|18x Rubber Parts, 3x Steel Spring
+|$2000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Ruined Baton.png|frameless|96x96px]]
+|[[Ruined Baton]]
+|Uncommon
+|6x Metal Parts, 3x Rubber Parts
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Ruined Handcuffs.png|frameless|96x96px]]
+|[[Ruined Handcuffs]]
+|Uncommon
+|8x Metal Parts
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Ruined Parachute.png|frameless|96x96px]]
+|[[Ruined Parachute]]
+|Uncommon
+|10x Fabric
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Ruined Riot Shield.png|frameless|96x96px]]
+|[[Ruined Riot Shield]]
+|Rare
+|10x Plastic Parts, 6x Rubber Parts
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Ruined Tactical Vest.png|frameless|96x96px]]
+|[[Ruined Tactical Vest]]
+|Uncommon
+|5x Fabric, 1x Magnet
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Rusted Bolts.png|frameless|96x96px]]
+|[[Rusted Bolts]]
+|Uncommon
+|8x Metal Parts
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Rusted Gear.png|frameless|96x96px]]
+|[[Rusted Gear]]
+|Rare
+|4x Metal Parts, 2x Mechanical Components
+|$2000
+|Recyclable
+|3x Gunsmith III
+|
+|
+|
+|-
+|[[File:Rusted Shut Medical Kit.png|frameless|96x96px]]
+|[[Rusted Shut Medical Kit]]
+|Rare
+|2x Syringe, 1x Antiseptic
+|$2000
+|Recyclable
+|3x Medical Lab III
+|
+|
+|
+|-
+|[[File:Rusted Tools.png|frameless|96x96px]]
+|[[Rusted Tools]]
+|Rare
+|8x Metal Parts, 1x Steel Spring
+|$1000
+|Recyclable
+|3x Gunsmith II
+|
+|
+|
+|-
+|[[File:Rusty ARC Steel.png|frameless|96x96px]]
+|[[Rusty ARC Steel]]
+|Uncommon
+|8x Metal Parts
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Sample Cleaner.png|frameless|96x96px]]
+|[[Sample Cleaner]]
+|Rare
+|2x Electrical Components, 14x Assorted Seeds
+|$3000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Sensors.png|frameless|96x96px]]
+|[[Sensors]]
+|Rare
+|1x Wires, 1x Metal Parts
+|$500
+|Topside Material
+|
+|
+|20x Project III
+|
+* Raider Hatch Key
+|-
+|[[File:Sentinel Firing Core.png|frameless|96x96px]]
+|[[Sentinel Firing Core]]
+|Rare
+|2x ARC Alloy, 3x Mechanical Components
+|$3000
+|Recyclable
+|4x Gunsmith III
+|
+|
+|
+|-
+|[[File:Shredder Gryo.png|frameless|96x96px]]
+|[[Shredder Gyro]]
+|Rare
+|3x Mechanical Components, 3x ARC Alloy
+|$3000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Signal Amplifier.png|frameless|96x96px]]
+|[[Signal Amplifier]]
+|Rare
+|2x Electrical Components, 2x Voltage Converter
+|$3000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Silver Teaspoon Set.png|frameless|96x96px]]
+|[[Silver Teaspoon Set]]
+|Rare
+|Cannot be Recycled
+|$3000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Simple Gun Parts.png|frameless|96x96px]]
+|[[Simple Gun Parts]]
+|Uncommon
+|2x Metals Parts
+|$330
+|Topside Material
+|
+|
+|
+|Gun Upgrades
+|-
+|[[File:snitchScannerPNG.png|frameless|96x96px]]
+|[[Snitch Scanner]]
+|Uncommon
+|4x ARC Alloy
+|$2000
+|Recyclable
+|6x Utility Station II
+|2x The Trifecta
+|
+|
+|-
+|[[File:Speaker Component.png|frameless|96x96px]]
+|[[Speaker Component]]
+|Rare
+|2x Plastic Parts, 3x Rubber Parts
+|$500
+|Topside Material
+|
+|
+|
+|
+* Lure Grenade
+* Photoelectric Cloak
+|-
+|[[File:Spectrometer.png|frameless|96x96px]]
+|[[Spectrometer]]
+|Rare
+|1x Advanced Electrical Components, 1x Sensors
+|$3000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Spectrum Analyizer.png|frameless|96x96px]]
+|[[Spectrum Analyzer]]
+|Epic
+|1x Sensors, 1x Exodus Modules
+|$3500
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Spotter Relay.png|frameless|96x96px]]
+|[[Spotter Relay]]
+|Uncommon
+|2x Electrical Components, 1x ARC Alloy
+|$2000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:springCushionPNG.png|frameless|96x96px]]
+|[[Spring Cushion]]
+|Rare
+|2x Durable Cloth, 2x Steel Spring
+|$2000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Statuette.png|frameless|96x96px]]
+|[[Statuette]]
+|Rare
+|Cannot be Recycled
+|$3000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Steel Spring.png|frameless|96x96px]]
+|[[Steel Spring]]
+|Uncommon
+|2x Metal Parts
+|$300
+|Topside Material
+|
+|
+|15x Project I
+|Gun Magazines
+|-
+|[[File:Surveyor Vault.png|frameless|96x96px]]
+|[[Surveyor Vault]]
+|Rare
+|2x Mechanical Components, 2x ARC Alloy
+|$2000
+|Recyclable
+|5x Medical Lab III
+|1x Mixed Signals
+|
+|
+|-
+|[[File:Synthesized Fuel.png|frameless|96x96px]]
+|[[Synthesized Fuel]]
+|Rare
+|1x Oil, 1x Chemicals
+|$700
+|Topside Material
+|3x Explosives Station II
+|
+|
+|
+* Trailblazer
+|-
+|[[File:Syringe.png|frameless|96x96px]]
+|[[Syringe]]
+|Rare
+|3x Plastic Parts, 2x Chemicals
+|$500
+|Topside Material
+|
+|1x Doctor's Orders
+|
+|
+* Vita Shot
+|-
+|[[File:Tattered ARC Lining.png|frameless|96x96px]]
+|[[Tattered ARC Lining]]
+|Uncommon
+|12x Fabric
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Tattered Clothes.png|frameless|96x96px]]
+|[[Tattered Clothes]]
+|Uncommon
+|11x Fabric
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Telemetry Transceiver.png|frameless|96x96px]]
+|[[Telemetry Transceiver]]
+|Rare
+|1x Advanced Electrical Components, 1x Processor
+|$3000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Thermostat.png|frameless|96x96px]]
+|[[Thermostat]]
+|Rare
+|7x Rubber Parts, 1x Sensors
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Tick Pod.png|frameless|96x96px]]
+|[[Tick Pod]]
+|Uncommon
+|2x Arc Alloy, 2x Chemicals
+|$640
+|Recyclable
+|8x Medical Lab II
+|
+|
+|
+|-
+|[[File:Toaster.png|frameless|96x96px]]
+|[[Toaster]]
+|Rare
+|5x Plastic Parts, 3x Wires
+|$1000
+|Recyclable
+|3x Refiner II
+|
+|
+|
+|-
+|[[File:Torn Book.png|frameless|96x96px]]
+|[[Torn Book]]
+|Common
+|Cannot be Recycled
+|$1000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Torn Blanket.png|frameless|96x96px]]
+|[[Torn Blanket]]
+|Rare
+|12x Fabric
+|$640
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Turbo Pump.png|frameless|96x96px]]
+|[[Turbo Pump]]
+|Rare
+|1x Mechanical Components, 3x Oil
+|$2000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Unusable Weapon.png|frameless|96x96px]]
+|[[Unusable Weapon]]
+|Rare
+|4x Metal Parts, 5x Simple Gun Parts
+|$2000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Vase.png|frameless|96x96px]]
+|[[Vase]]
+|Rare
+|Cannot be Recycled
+|$3000
+|Trinket
+|
+|
+|
+|
+|-
+|[[File:Very Comfortable Pillow.png|frameless|96x96px]]
+|[[Very Comfortable Pillow]]
+|Uncommon
+|Cannot be Recycled
+|$2000
+|Trinket
+|3x Scrappy Level 5
+|
+|
+|
+|-
+|[[File:Volcanic Rock.png|frameless|96x96px]]
+|[[Volcanic Rock]]
+|Common
+|Cannot be Recycled
+|$270
+|Misc
+|
+|
+|
+|
+|-
+|[[File:Voltage Converter.png|frameless|96x96px]]
+|[[Voltage Converter]]
+|Rare
+|1x Wires, 1x Rubber Parts
+|$500
+|Topside Material
+|
+|
+|
+|
+* Heavy Shield
+|-
+|[[File:Wasp Driver.png|frameless|96x96px]]
+|[[Wasp Driver]]
+|Rare
+|1x ARC Alloy, 1x Electrical Components
+|$1000
+|Recyclable
+|8x Gunsmith II
+|2x The Trifecta
+|
+|
+|-
+|[[File:Water Filter.png|frameless|96x96px]]
+|[[Water Filter]]
+|Rare
+|2x Rubber Parts, 3x Canister
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Water Pump.png|frameless|96x96px]]
+|[[Water Pump]]
+|Rare
+|4x Metal Parts, 2x Oil
+|$1000
+|Recyclable
+|
+|
+|
+|
+|-
+|[[File:Wires.png|frameless|96x96px]]
+|[[Wires]]
+|Uncommon
+|2x Rubber Parts
+|$200
+|Topside Material
+|
+|6x Trash Into Treasure
+3x Eyes on the Prize
+
+5x After Rain Comes
+|30x Project II
+|
+* Blaze Grenade
+|}
+Note: Some items are more profitable to recycle and sell the parts
+
+== Items to keep ==
+
+=== Quest Items (18) ===
+{| class="fandom-table"
+|+
+|-
+|[[File:Antiseptic.png|center|frameless|96x96px]]
+|[[File:ARC_Alloy.png|center|frameless|96x96px]]
+|[[File:Battery.png|center|frameless|96x96px]]
+|[[File:Durable_Cloth.png|center|frameless|96x96px]]
+|[[File:Fertilizer.png|center|frameless|96x96px]]
+|[[File:Great_Mullein.png|center|frameless|96x96px]]
+|[[File:Hornet_Driver.png|center|frameless|96x96px]]
+|[[File:Leaper_Pulse_Unit.png|center|frameless|96x96px]]
+|[[File:Flow Controller.png|center|frameless|96x96px]]
+|-
+|2x Antiseptic
+|3x ARC Alloy 
+|3x Battery
+|1x Durable Cloth
+|1x Fertilizer
+|1x Great Mullein
+|2x Hornet Driver
+|1x Leaper Pulse Unit
+|1x Flow Controller
+|-
+|[[File:PowerRod.png|center|frameless|96x96px]]
+|[[File:Rocketeet_Driver.png|center|frameless|96x96px]]
+|[[File:Wires.png|center|frameless|96x96px]]
+|[[File:SnitchScannerPNG.png|center|frameless|96x96px]]
+|[[File:Surveyor_Vault.png|center|frameless|96x96px]]
+|[[File:Syringe.png|center|frameless|96x96px]]
+|[[File:Wasp_Driver.png|center|frameless|96x96px]]
+|[[File:Water_Pump.png|center|frameless|96x96px]]
+|[[File:Magnetron.png|center|frameless|96x96px]]
+|-
+|1x Power Rod
+|1x Rocketeer Driver
+|14x Wires
+|2x Snitch scanner
+|1x Surveyor Vault
+|1x Syringe
+|2x Wasp Driver
+|1x Water Pump
+|1x Magnetron
+|}
+
+=== Workshop Items (49) ===
+{| class="fandom-table"
+|+
+|-
+|[[File:Dog Collar.png|center|frameless|96x96px]]
+|[[File:Lemon.png|center|frameless|96x96px]]
+|[[File:Apricot.png|center|frameless|96x96px]]
+|[[File:Prickly Pear.png|center|frameless|96x96px]]
+|[[File:Olives.png|center|frameless|96x96px]]
+|[[File:Cat Bed.png|center|frameless|96x96px]]
+|[[File:Mushroom.png|center|frameless|96x96px]]
+|[[File:Very Comfortable Pillow.png|center|frameless|96x96px]]
+|[[File:Metal Parts.png|center|frameless|96x96px]]
+|[[File:Rubber Parts.png|center|frameless|96x96px]]
+|-
+|1x Dog Collar
+|5x Lemon
+|17x Apricot
+|8x Prickly Pear
+|8x Olives
+|1x Cat Bed
+|12x Mushroom
+|3x Very Comfortable Pillow
+|80x Metal Parts
+|30x Rubber Parts
+|-
+|[[File:Rusted Tools.png|center|frameless|96x96px]]
+|[[File:Mechanical Components.png|center|frameless|96x96px]]
+|[[File:Wasp Driver.png|center|frameless|96x96px]]
+|[[File:Rusted Gear.png|center|frameless|96x96px]]
+|[[File:Advanced Mechanical Components.png|center|frameless|96x96px]]
+|[[File:Sentinel Firing Core.png|center|frameless|96x96px]]
+|[[File:Plastic Parts.png|center|frameless|96x96px]]
+|[[File:Fabric.png|center|frameless|96x96px]]
+|[[File:Power Cable.png|center|frameless|96x96px]]
+|[[File:Electrical Components.png|center|frameless|96x96px]]
+|-
+|3x Rusted Tools
+|5x Mechanical Components
+|8x Wasp Driver
+|3x Rusted Gear
+|5x Advanced Mechanical Components
+|4x Sentinel Firing Core
+|75x Plastic Parts
+|80x Fabric
+|3x Power Cable
+|10x Electrical Components
+|-
+|[[File:Hornet Driver.png|center|frameless|96x96px]]
+|[[File:Industrial Battery.png|center|frameless|96x96px]]
+|[[File:Advanced Electrical Components.png|center|frameless|96x96px]]
+|[[File:Bastion Cell.png|center|frameless|96x96px]]
+|[[File:Chemicals.png|center|frameless|96x96px]]
+|[[File:ARC Alloy.png|center|frameless|96x96px]]
+|[[File:Synthesized Fuel.png|center|frameless|96x96px]]
+|[[File:Crude Explosives.png|center|frameless|96x96px]]
+|[[File:Pop Trigger.png|center|frameless|96x96px]]
+|[[File:Laboratory Reagents.png|center|frameless|96x96px]]
+|-
+|5x Hornet Driver
+|3x Industrial Battery
+|10x Advanced Electrical Components
+|6x Bastion Cell
+|50x Chemicals
+|18x ARC Alloy
+|3x Synthesized Fuel
+|5x Crude Explosives
+|5x Pop Trigger
+|3x Laboratory Reagents
+|-
+|[[File:Explosive Compound.png|center|frameless|96x96px]]
+|[[File:Rocketeet Driver.png|center|frameless|96x96px]]
+|[[File:Cracked Bioscanner.png|center|frameless|96x96px]]
+|[[File:Durable Cloth.png|center|frameless|96x96px]]
+|[[File:Tick Pod.png|center|frameless|96x96px]]
+|[[File:Rusted Shut Medical Kit.png|center|frameless|96x96px]]
+|[[File:Antiseptic.png|center|frameless|96x96px]]
+|[[File:Surveyor Vault.png|center|frameless|96x96px]]
+|[[File:Damaged Heat Sink.png|center|frameless|96x96px]]
+|[[File:SnitchScannerPNG.png|center|frameless|96x96px]]
+|-
+|5x Explosive Compound
+|3x Rocketeer Driver
+|2x Cracked Bioscanner
+|5x Durable Cloth
+|8x Tick Pod
+|3x Rusted Shut Medical Kit
+|8x Antiseptic
+|5x Surveyor Vault
+|2x Damaged Heat Sink
+|6x Snitch Scanner
+|-
+|[[File:Fried Motherboard.png|center|frameless|96x96px]]
+|[[File:Leaper Pulse Unit.png|center|frameless|96x96px]]
+|[[File:ARC Powercell.png|center|frameless|96x96px]]
+|[[File:Toaster.png|center|frameless|96x96px]]
+|[[File:ARC Motion Core.png|center|frameless|96x96px]]
+|[[File:Fireball Burner.png|center|frameless|96x96px]]
+|[[File:Motor.png|center|frameless|96x96px]]
+|[[File:ARC Circuitry.png|center|frameless|96x96px]]
+|[[File:Bombardier Cell.png|center|frameless|96x96px]]
+|
+|-
+|3x Fried Motherboard
+|4x Leaper Pulse Unit
+|5x ARC Powercell
+|3x Toaster
+|5x ARC Motion Core
+|8x Fireball Burner
+|3x Motor
+|10x ARC Circuitry
+|6x Bombardier Cell
+|
+|}
+
+
+=== Expedition 2 Project Items (16) ===
+{| class="fandom-table"
+|[[File:Rubber_Parts.png|center|frameless|96x96px]]
+|[[File:Metal_Parts.png|center|frameless|96x96px]]
+|[[File:ARC_Alloy.png|center|frameless|96x96px]]
+|[[File:Durable_Cloth.png|center|frameless|96x96px]]
+|[[File:Battery.png|center|frameless|96x96px]]
+|[[File:Electrical_Components.png|center|frameless|96x96px]]
+|[[File:Wires.png|center|frameless|96x96px]]
+|[[File:Shredder Gryo.png|center|frameless|96x96px]]
+|-
+|200x Rubber Parts
+|150x Metal Parts
+|80x ARC Alloy
+|35x Durable Cloth
+|30x Battery
+|30x Electrical Components
+|30x Wires
+|10x Shredder Gyro
+|-
+|[[File:Steel_Spring.png|center|frameless|96x96px]]
+|[[File:Advanced_Electrical_Components.png|center|frameless|96x96px]]
+|[[File:Frequency Modulation Box.png|center|frameless|96x96px]]
+|[[File:Light_Bulb.png|center|frameless|96x96px]]
+|[[File:Cooling_Fan.png|center|frameless|96x96px]]
+|[[File:Leaper_Pulse_Unit.png|center|frameless|96x96px]]
+|[[File:Ion Sputter.png|center|frameless|96x96px]]
+|[[File:Exodus_Modules.png|center|frameless|96x96px]]
+|-
+|15x Steel Spring
+|5x Advanced Electrical Components
+|5x Frequency Modulation Box
+|4x Light Bulb
+|5x Cooling Fan
+|3x Leaper Pulse Unit
+|3x Ion Sputter
+|1x Exodus Modules
+|}
+
+=== Expedition Project Items (16) ===
+{| class="fandom-table"
+|-
+|[[File:Rubber Parts.png|center|frameless|96x96px]]
+|[[File:Metal Parts.png|center|frameless|96x96px]]
+|[[File:ARC Alloy.png|center|frameless|96x96px]]
+|[[File:Durable_Cloth.png|center|frameless|96x96px]]
+|[[File:Battery.png|center|frameless|96x96px]]
+|[[File:Electrical Components.png|center|frameless|96x96px]]
+|[[File:Wires.png|center|frameless|96x96px]]
+|[[File:Sensors.png|center|frameless|96x96px]]
+|-
+|200x Rubber Parts
+|150x Metal Parts 
+|80x ARC Alloy
+|35x Durable Cloth
+|30x Battery
+|30x Electrical Components
+|30x Wires
+|20x Sensors
+|-
+|[[File:Steel Spring.png|center|frameless|96x96px]]
+|[[File:Advanced Electrical Components.png|center|frameless|96x96px]]
+|[[File:Humidifier.png|center|frameless|96x96px]]
+|[[File:Light Bulb.png|center|frameless|96x96px]]
+|[[File:Cooling Fan.png|center|frameless|96x96px]]
+|[[File:Leaper Pulse Unit.png|center|frameless|96x96px]]
+|[[File:Magnetic Accelerator.png|center|frameless|96x96px]]
+|[[File:Exodus Modules.png|center|frameless|96x96px]]
+|-
+|15x Steel Spring
+|5x Advanced Electrical Components
+|5x Humidifier
+|5x Light Bulb
+|5x Cooling Fan
+|3x Leaper Pulse Unit
+|3x Magnetic Accelerator
+|1x Exodus Modules
+|}
+
+=== Flickering Flames Project Items (16) ===
+{| class="fandom-table"
+|-
+|[[File:Candleberries.png|center|frameless|96x96px]]
+|[[File:Empty Wine Bottle.png|center|frameless|96x96px]]
+|[[File:Plastic Parts.png|center|frameless|96x96px]]
+|[[File:Durable Cloth.png|center|frameless|96x96px]]
+|[[File:Candle Holder.png|center|frameless|96x96px]]
+|[[File:Light Bulb.png|center|frameless|96x96px]]
+|[[File:Industrial Battery.png|center|frameless|96x96px]]
+|[[File:Snap Blast Grenade.png|center|frameless|96x96px]]
+|-
+|260x Candleberries
+|1x Empty Wine Bottle 
+|25x Plastic Parts
+|5x Durable Cloth
+|3x Candle Holder
+|3x Light Bulb
+|1x Industrial Battery
+|5x Snap Blast Grenade
+|-
+|[[File:Duct Tape.png|center|frameless|96x96px]]
+|[[File:Film Reel.png|center|frameless|96x96px]]
+|[[File:Coffee Pot.png|center|frameless|96x96px]]
+|[[File:Fireball Burner.png|center|frameless|96x96px]]
+|[[File:Water Filter.png|center|frameless|96x96px]]
+|[[File:Mushroom.png|center|frameless|96x96px]]
+|[[File:FryingPanPNG.png|center|frameless|96x96px]]
+|[[File:Music Album.png|center|frameless|96x96px]]
+|-
+|10x Duct Tape
+|1x Film Reel
+|2x Coffee Pot
+|10x Fireball Burner
+|2x Water Filter
+|7x Mushroom
+|2x Frying Pan
+|2x Music Album
+|}
+
+=== Trophy Display Project Items (20) ===
+{| class="fandom-table"
+|-
+|[[File:Rusted Bolts.png|center|frameless|96x96px]]
+|[[File:Pop Trigger.png|center|frameless|96x96px]]
+|[[File:Tick Pod.png|center|frameless|96x96px]]
+|[[File:Surveyor Vault.png|center|frameless|96x96px]]
+|[[File:Spotter Relay.png|center|frameless|96x96px]]
+|[[File:Expired Respirator.png|center|frameless|96x96px]]
+|[[File:Wasp Driver.png|center|frameless|96x96px]]
+|[[File:Hornet Driver.png|center|frameless|96x96px]]
+|[[File:ARC Performance Steel.png|center|frameless|96x96px]]
+|[[File:Shredder Gryo.png|center|frameless|96x96px]]
+|-
+|3x Rusted Bolts
+|15x Pop Trigger 
+|15x Tick Pod
+|5x Surveyor Vault
+|10x Spotter Relay
+|3x Expired Respirator
+|20x Wasp Driver
+|15x Hornet Driver
+|10x ARC Performance Steel
+|5x Shredder Gyro
+|-
+|[[File:Leaper_Pulse_Unit.png|center|frameless|96x96px]]
+|[[File:Bastion Cell.png|center|frameless|96x96px]]
+|[[File:ARC Synthetic Resin.png|center|frameless|96x96px]]
+|[[File:Magnetic Accelerator.png|center|frameless|96x96px]]
+|[[File:Rocketeet Driver.png|center|frameless|96x96px]]
+|[[File:Queen Reactor.png|center|frameless|96x96px]]
+|[[File:Exodus Modules.png|center|frameless|96x96px]]
+|[[File:Geiger Counter.png|center|frameless|96x96px]]
+|[[File:Bombardier Cell.png|center|frameless|96x96px]]
+|[[File:Matriarch Reactor.png|center|frameless|96x96px]]
+|-
+|10x Leaper Pulse Unit
+|5x Bastion Cell
+|10x ARC Synthetic Resin
+|10x Magnetic Accelerator
+|8x Rocketeer Driver
+|3x Queen Reactor
+|5x Exodus Modules
+|3x Geiger Counter
+|8x Bombardier Cell
+|3x Matriarch Reactor
+|}
+
+
+
+__FORCETOC__

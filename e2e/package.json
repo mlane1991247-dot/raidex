@@ -1,0 +1,14 @@
+{
+  "name": "raidex-e2e",
+  "private": true,
+  "description": "Playwright end-to-end tests for the Raidex ARC Raiders tracker.",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "install-browser": "playwright install chromium"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.0"
+  }
+}

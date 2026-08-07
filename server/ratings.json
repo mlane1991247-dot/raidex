@@ -1,0 +1,18 @@
+{
+  "votes": [
+    {
+      "id": "v-msjgoucqnqg",
+      "posterId": "seed-a",
+      "voterId": "r-msjgotturyij",
+      "value": 1,
+      "createdAt": 1786138405802
+    },
+    {
+      "id": "v-msjgp4t3io9",
+      "posterId": "seed-a",
+      "voterId": "r-msjgp4czngc4",
+      "value": 1,
+      "createdAt": 1786138419351
+    }
+  ]
+}

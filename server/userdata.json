@@ -1,0 +1,99 @@
+{
+  "profiles": {
+    "r-demo01": {
+      "id": "r-demo01",
+      "name": "Demo Raider",
+      "createdAt": 1786130000000,
+      "updatedAt": 1786130000000,
+      "stashLevel": 2,
+      "inventory": [
+        {
+          "slug": "metal-parts",
+          "name": "Metal Parts",
+          "category": "Basic Material",
+          "rarity": "Common",
+          "sell_value": 75,
+          "qty": 12
+        },
+        {
+          "slug": "chemicals",
+          "name": "Chemicals",
+          "category": "Basic Material",
+          "rarity": "Common",
+          "sell_value": 50,
+          "qty": 8
+        },
+        {
+          "slug": "wires",
+          "name": "Wires",
+          "category": "Topside Material",
+          "rarity": "Uncommon",
+          "sell_value": 200,
+          "qty": 6
+        },
+        {
+          "slug": "battery",
+          "name": "Battery",
+          "category": "Topside Material",
+          "rarity": "Uncommon",
+          "sell_value": 250,
+          "qty": 2
+        }
+      ],
+      "stash": [
+        {
+          "slug": "arc-alloy",
+          "name": "ARC Alloy",
+          "category": "Topside Material",
+          "rarity": "Uncommon",
+          "sell_value": 200,
+          "qty": 18
+        },
+        {
+          "slug": "duct-tape",
+          "name": "Duct Tape",
+          "category": "Topside Material",
+          "rarity": "Uncommon",
+          "sell_value": 300,
+          "qty": 10
+        },
+        {
+          "slug": "steel-spring",
+          "name": "Steel Spring",
+          "category": "Topside Material",
+          "rarity": "Uncommon",
+          "sell_value": 300,
+          "qty": 15
+        },
+        {
+          "slug": "breathtaking-snow-globe",
+          "name": "Breathtaking Snow Globe",
+          "category": "Trinket",
+          "rarity": "Epic",
+          "sell_value": 7000,
+          "qty": 1
+        }
+      ],
+      "quests": {
+        "shani-a-lay-of-the-land": {
+          "active": true,
+          "completed": false,
+          "done": [
+            true,
+            false,
+            false,
+            false
+          ]
+        },
+        "celeste-a-bad-feeling": {
+          "active": false,
+          "completed": true,
+          "done": [
+            true
+          ]
+        }
+      },
+      "notes": "Need to finish A Lay of the Land — Dam Testing Annex key is up for grabs."
+    }
+  }
+}

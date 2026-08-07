@@ -1,0 +1,94 @@
+{
+  "listings": [
+    {
+      "id": "b-seed1",
+      "posterId": "seed-a",
+      "posterName": "ScavengerSol",
+      "offer": [
+        {
+          "slug": "hornet-driver",
+          "name": "Hornet Driver",
+          "icon": "/icons/hornet-driver.png",
+          "qty": 5
+        }
+      ],
+      "want": [
+        {
+          "slug": "arc-alloy",
+          "name": "ARC Alloy",
+          "icon": "/icons/arc-alloy.png",
+          "qty": 8
+        }
+      ],
+      "note": "Need ARC Alloy for the Refiner III push. Open to offers.",
+      "status": "open",
+      "claimedBy": null,
+      "createdAt": 1786135000000,
+      "claimedAt": null
+    },
+    {
+      "id": "b-seed2",
+      "posterId": "seed-b",
+      "posterName": "HankTheHatch",
+      "offer": [
+        {
+          "slug": "magnetic-accelerator",
+          "name": "Magnetic Accelerator",
+          "icon": "/icons/magnetic-accelerator.png",
+          "qty": 1
+        }
+      ],
+      "want": [
+        {
+          "slug": "power-rod",
+          "name": "Power Rod",
+          "icon": "/icons/power-rod.png",
+          "qty": 1
+        }
+      ],
+      "note": "Straight swap, one-for-one. Hit me up.",
+      "status": "claimed",
+      "claimedBy": {
+        "profileId": "r-demo01",
+        "name": "Demo Raider"
+      },
+      "createdAt": 1786136000000,
+      "claimedAt": 1786142486902
+    },
+    {
+      "id": "b-seed3",
+      "posterId": "seed-c",
+      "posterName": "LilTinker",
+      "offer": [
+        {
+          "slug": "duct-tape",
+          "name": "Duct Tape",
+          "icon": "/icons/duct-tape.png",
+          "qty": 20
+        },
+        {
+          "slug": "wires",
+          "name": "Wires",
+          "icon": "/icons/wires.png",
+          "qty": 30
+        }
+      ],
+      "want": [
+        {
+          "slug": "wasp-driver",
+          "name": "Wasp Driver",
+          "icon": "/icons/wasp-driver.png",
+          "qty": 6
+        }
+      ],
+      "note": "Cleaning out my stash, need Wasp Drivers for Gunsmith II.",
+      "status": "claimed",
+      "claimedBy": {
+        "profileId": "r-demo01",
+        "name": "Demo Raider"
+      },
+      "createdAt": 1786133000000,
+      "claimedAt": 1786135200000
+    }
+  ]
+}
