@@ -1,0 +1,17 @@
+# Render "Blueprint" — deploy by connecting this repo to Render.
+# The Dockerfile builds the frontend and runs the API+static server.
+# A persistent disk holds user data at /data.
+services:
+  - type: web
+    name: raidex
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/meta
+    envVars:
+      - key: RAIDEX_DATA_DIR
+        value: /data
+    disk:
+      name: raidex-data
+      mountPath: /data
+      sizeGB: 1
